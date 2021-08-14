@@ -32055,8 +32055,8 @@ video {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-body {
-  color: red
+.flex-shrink-0 {
+  color: pink;
 }
 
 @media (min-width: 640px) {
